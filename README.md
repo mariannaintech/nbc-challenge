@@ -7,7 +7,9 @@ This project replicates the NBC app home screen.
 ## Screenshots
 
 ### Home Screen
-![Home Screen](media/screenshot.png)
+<img src="media/screenshot.png" alt="Home Screen" width="300"/>
 
 ### Video Demonstration
-[![Watch the video](media/screenshot.png)](media/demo_video.mp4)
+<a href="media/demo_video.mp4">
+    <img src="media/screenshot.png" alt="Watch the video" width="300"/>
+</a>
